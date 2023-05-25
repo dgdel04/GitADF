@@ -1,0 +1,9 @@
+{
+	"name": "dgosainadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "52321f5c-a3da-4e33-8cd0-d3b4389a7010",
+		"tenantId": "93f33571-550f-43cf-b09f-cd331338d086"
+	}
+}
